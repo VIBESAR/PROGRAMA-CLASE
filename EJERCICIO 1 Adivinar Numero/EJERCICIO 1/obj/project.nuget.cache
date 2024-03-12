@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "E20cYLin88qm+5nxxhku6wyNje0B7h/zcQCgI/hltQ6d7OAHDCZXoDwAWUSNZEnN8+FUiHFcE5cSQobAjqKOoA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\canch\\OneDrive\\Escritorio\\PARCIAL PROGRAMACION\\EJERCICIO 1\\EJERCICIO 1\\EJERCICIO 1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "E20cYLin88qm+5nxxhku6wyNje0B7h/zcQCgI/hltQ6d7OAHDCZXoDwAWUSNZEnN8+FUiHFcE5cSQobAjqKOoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\canch\\OneDrive\\Escritorio\\PARCIAL PROGRAMACION\\EJERCICIO 1\\EJERCICIO 1\\EJERCICIO 1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 4ca46e9575e3c893681ddb900669fd777abdae03
 }

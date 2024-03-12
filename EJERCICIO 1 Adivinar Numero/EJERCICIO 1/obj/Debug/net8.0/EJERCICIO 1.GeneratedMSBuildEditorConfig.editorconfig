@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
@@ -11,3 +12,18 @@ build_property.RootNamespace = EJERCICIO_1
 build_property.ProjectDir = C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1\EJERCICIO 1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EJERCICIO_1
+build_property.ProjectDir = C:\Users\canch\OneDrive\Escritorio\PARCIAL PROGRAMACION\EJERCICIO 1\EJERCICIO 1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+>>>>>>> 4ca46e9575e3c893681ddb900669fd777abdae03
