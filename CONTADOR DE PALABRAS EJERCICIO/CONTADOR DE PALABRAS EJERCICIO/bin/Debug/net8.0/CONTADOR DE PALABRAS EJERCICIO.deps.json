@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CONTADOR DE PALABRAS EJERCICIO/1.0.0": {
+        "runtime": {
+          "CONTADOR DE PALABRAS EJERCICIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CONTADOR DE PALABRAS EJERCICIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

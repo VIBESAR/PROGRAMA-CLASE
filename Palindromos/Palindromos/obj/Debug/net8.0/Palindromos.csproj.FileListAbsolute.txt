@@ -1,0 +1,15 @@
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.exe
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.deps.json
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.dll
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.pdb
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.sourcelink.json
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.dll
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\refint\Palindromos.dll
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.pdb
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\Programa clase\Palindromos\Palindromos\obj\Debug\net8.0\ref\Palindromos.dll
